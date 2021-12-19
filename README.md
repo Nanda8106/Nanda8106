@@ -12,8 +12,8 @@
    
    <ul>
       <li>Operating System: Windows, Linux.</li>
-      <li> Programming Languages - C, Java, Python, Javascript</li>
-      <li> Web/Mobile App - React Native(Basics),  HTML5, CSS, Bootstrap, SQL, Node JS, PHP, MongoDB</li>
+      <li> Programming Languages - Python, Javascript</li>
+      <li> Web/Mobile App - Flutter,  HTML5, CSS, Bootstrap, SQL, Node JS, PHP, MongoDB</li>
       <li> Technologies and Framework - React, Express, Django</li>
    </ul>
 
