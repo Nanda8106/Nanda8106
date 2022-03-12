@@ -12,8 +12,11 @@
    
    <ul>
       <li>Operating System: Windows, Linux.</li>
-      <li> Programming Languages - Python, Javascript</li>
-      <li> Web/Mobile App - Flutter,  HTML5, CSS, Bootstrap, SQL, Node JS, PHP, MongoDB</li>
-      <li> Technologies and Framework - React, Express, Django</li>
+      <li> Programming Languages - Java, Python, Javascript</li>
+      <li> Web - HTML5, CSS</li>
+      <li> Cloud - Aws(Ec2, Vpc, Lambda, Cloud Watch), Docker</li>
+      <li> DataBase - Sql, MongoDB</li>
+      <li> Frameworks and Libraries - React, Express, Nodejs, Bootstrap, Flutter</li>
+      <li> Tools - Vs Code, Pycharm, Anaconda, Brackets, Intelij</li>
    </ul>
 
